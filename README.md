@@ -2,6 +2,8 @@
 
 Hypothesis testing is like being a detective trying to figure out if something is true. You have two ideas: one saying there's no difference or effect (the null hypothesis) and the other saying there is a difference or effect (the alternative hypothesis). Let's say you're investigating if there's a difference in average fare between customers who use credit cards and those who use cash.
 
+Used Dataset:- https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019?select=yellow_tripdata_2020-01.csv
+
 # Null Hypothesis (H0): 
 There is no difference in average fare between customers who use credit cards and customers who use cash.
   
